@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "Aman Porwal",
+      "description": "This is a Great Stream",
+      "id": 1
+    },
+    {
+      "title": "Swati Porwal",
+      "description": "This might be a great stream",
+      "id": 2
+    },
+    {
+      "title": "ChessBase India Hindi",
+      "description": "welcome to ChessBase India Hindi.",
+      "id": 3
+    }
+  ]
+}
